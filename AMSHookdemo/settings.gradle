@@ -1,0 +1,2 @@
+include ':lib'
+include ':app', ':aidleservicedemo', ':aidlclientdemo', ':clipboardhookdemo', ':reflectdemo', ':activityhookdemo'
